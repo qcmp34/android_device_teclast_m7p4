@@ -1,0 +1,2 @@
+add_lunch_combo twrp_m7p4-eng
+add_lunch_combo twrp_m7p4-userdebug
